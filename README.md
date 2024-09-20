@@ -20,6 +20,14 @@ Este é um site simples que busca informações sobre animes, criado durante a *
 > ## 💣 PROBLEMAS
 > As pesquisas são bastante resumidas, pois a base de dados criada é limitada.
 
-> ## 💻 VEJA O PROJETO
-> <img src="">
-> [CLIQUE AQUI PARA VER O PROJETO](https://imers-o-dev-com-google-gemini-brown.vercel.app/)
+> ## 💻 [VEJA O PROJETO](https://imers-o-dev-com-google-gemini-brown.vercel.app/)
+> <img src="https://github.com/KaioGabriel-the/Imers-o-Dev-com-Google-Gemini/blob/66d1609d5c5ee8205c324f8401027ba4af29063b/Screenshot%20from%202024-09-20%2013-20-58.png">
+
+> ## CLONE O PROJETO
+> ``` bash
+> git clone https://github.com/KaioGabriel-the/Imers-o-Dev-com-Google-Gemini.git
+
+>## CONTATO
+> * **Desenvolvedor:** Kaio Gabriel
+> * **Email:** [contato.kaiogabrieldev@gmail.com](contato.kaiogabrieldev@gmail.com)
+> * **Linkedln:** [Kaio Gabriel de Sousa Carvalho](https://www.linkedin.com/in/kaio-gabriel-de-sousa-carvalho-baa05b313/)
