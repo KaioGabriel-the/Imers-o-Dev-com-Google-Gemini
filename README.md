@@ -21,4 +21,5 @@ Este é um site simples que busca informações sobre animes, criado durante a *
 > As pesquisas são bastante resumidas, pois a base de dados criada é limitada.
 
 > ## 💻 VEJA O PROJETO
+> <img src="">
 > [CLIQUE AQUI PARA VER O PROJETO](https://imers-o-dev-com-google-gemini-brown.vercel.app/)
