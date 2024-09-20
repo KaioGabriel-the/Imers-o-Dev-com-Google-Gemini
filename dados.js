@@ -8,7 +8,7 @@ const animes = [
       personagensPrincipais: "Naruto Uzumaki, Sasuke Uchiha, Sakura Haruno, Kakashi Hatake"
     },
     {
-      nome: "Dragon Ball Z",
+      nome: "Dragon Ball Z",/*  */
       autor: "Akira Toriyama",
       ano: 1989,
       descricao: "Goku e seus amigos lutam para proteger a Terra de ameaças poderosas enquanto buscam pelas Esferas do Dragão. A série é famosa por suas batalhas intensas e evolução dos personagens. A luta contra vilões como Freeza e Cell é central para a trama.",
